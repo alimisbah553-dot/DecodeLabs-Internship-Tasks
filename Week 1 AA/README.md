@@ -47,7 +47,7 @@ Week-1/
 
 ## Demo Video
 Google Drive Link:
-(Add your Google Drive link here)
+(https://drive.google.com/file/d/1tPXpauqIkhJcTvVV5wmhp201UChwoJLJ/view?usp=drive_link)
 
 ## Learning Outcomes
 - Learned ROS2 workspace structure.
@@ -56,6 +56,6 @@ Google Drive Link:
 - Learned basic robot model visualization and package organization.
 
 ---
-**Intern:** Ali Raza  
+**Intern:** Syed Raza Ul Hasan  
 **Organization:** DecodeLabs  
 **Internship:** Robotics & Automation  
