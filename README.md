@@ -1,7 +1,9 @@
 ## DecodeLabs Internship - Week 1 Task
 
 *Intern Name:* Syed Raza Ul Hasan
-*Organization:* DecodeLabs
+
+*Organization:* DecodeLabs 
+
 *Internship Track:* Robotics & Automation
 
 ### Deliverables Included:
