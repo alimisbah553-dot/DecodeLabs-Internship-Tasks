@@ -1,0 +1,7 @@
+WEEK 2 QUALITY INSPECTION REPORT
+=================================
+
+mouse.jpeg | PASS | Defects: 0
+water bottle.jpg | PASS | Defects: 0
+missing screw.jpg | FAIL | Defects: 2
+broken watch.png | FAIL | Defects: 6
